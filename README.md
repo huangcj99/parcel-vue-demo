@@ -1,5 +1,7 @@
 # 快速开始
 
+node > 8.x
+
 ### 开发
 ```
 npm run dev
